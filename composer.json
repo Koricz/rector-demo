@@ -1,0 +1,12 @@
+{
+	
+	"require": {
+		"php": ">= 7.1",
+		"nette/nette": "2.3.*"
+	},
+	"require-dev": {
+		"rector/rector": "^0.12.15",
+		"phpstan/phpstan": "^1.4"
+	},
+	"minimum-stability": "stable"
+}
